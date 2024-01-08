@@ -1,0 +1,25 @@
+{
+    "name": "Lawrence Harding",
+    "age": 73,
+    "address": {
+        "street": "Bradley Motorway",
+        "city": "North Jason",
+        "state": "West Virginia",
+        "zip": "10406"
+    },
+    "contact": {
+        "phone": "(786)917-7368x23747",
+        "servicePhone": "800769809"
+    },
+    "birthday": "1952-16-06",
+    "ip": "117.215.106.108",
+    "foo": "bar",
+    "profile": {
+        "about": "Stuff mouth how author official behavior. Rule growth top skin product however quickly.",
+        "bio": "Shake from treat responsibility. Nearly dinner commercial court age general listen Congress."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
