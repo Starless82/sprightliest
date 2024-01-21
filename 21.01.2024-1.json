@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Mcgee",
+    "age": 21,
+    "address": {
+        "street": "Thomas Locks",
+        "city": "East Susanmouth",
+        "state": "Hawaii",
+        "zip": "16831"
+    },
+    "contact": {
+        "phone": "480.626.8965",
+        "servicePhone": "800208724"
+    },
+    "birthday": "2004-06-02",
+    "ip": "139.156.55.73",
+    "foo": "bar",
+    "profile": {
+        "about": "Health without cut man take. Prevent should stage top continue citizen nor.\nDoor one teach interesting. Always available sometimes matter wind.",
+        "bio": "Memory plant teacher Mrs assume media international. Entire real everyone agency arm house option effect. Democratic some product prove century maybe."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}
