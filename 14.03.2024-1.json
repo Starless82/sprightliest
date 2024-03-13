@@ -1,0 +1,25 @@
+{
+    "name": "Amy Brown",
+    "age": 99,
+    "address": {
+        "street": "Joyce Spring",
+        "city": "Gibsonmouth",
+        "state": "Colorado",
+        "zip": "15919"
+    },
+    "contact": {
+        "phone": "+1-378-898-0313x96442",
+        "servicePhone": "800009582"
+    },
+    "birthday": "1926-13-06",
+    "ip": "8.47.226.169",
+    "foo": "bar",
+    "profile": {
+        "about": "From center himself. Rock less interesting according increase work economic.\nPast summer eye seven forget section. Week strategy range carry everyone his.",
+        "bio": "Main guy prepare author. Crime figure chair carry material nor. Radio six group have no team.\nFar suffer laugh. Wide whole she section law ask place. Know use science shake director."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}
