@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Brown",
+    "age": 104,
+    "address": {
+        "street": "Perez Mills",
+        "city": "East Wendy",
+        "state": "Georgia",
+        "zip": "30077"
+    },
+    "contact": {
+        "phone": "(981)651-7024",
+        "servicePhone": "800916092"
+    },
+    "birthday": "1921-25-09",
+    "ip": "74.152.74.170",
+    "foo": "bar",
+    "profile": {
+        "about": "Good current baby American. Food run claim officer.\nParent home cup bring yes. Ten your benefit someone join.",
+        "bio": "Media something add high. Story responsibility Republican become. Public ok control customer population gun when."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
