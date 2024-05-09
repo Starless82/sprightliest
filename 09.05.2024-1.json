@@ -1,0 +1,25 @@
+{
+    "name": "Janet Duke",
+    "age": 101,
+    "address": {
+        "street": "Morales Glens",
+        "city": "Millsstad",
+        "state": "Nevada",
+        "zip": "55709"
+    },
+    "contact": {
+        "phone": "001-681-348-7366x506",
+        "servicePhone": "800352232"
+    },
+    "birthday": "1924-29-04",
+    "ip": "79.225.1.9",
+    "foo": "bar",
+    "profile": {
+        "about": "Day address when article. Out summer lose very space some. Wonder wind necessary easy sometimes debate.",
+        "bio": "Population trade ability build sport hundred weight star. Can later skill carry office leave. Truth treat production culture determine north cause.\nServe involve want professional life son young."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
