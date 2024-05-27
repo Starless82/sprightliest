@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Olson",
+    "age": 100,
+    "address": {
+        "street": "Silva Mission",
+        "city": "North Zacharyhaven",
+        "state": "Massachusetts",
+        "zip": "12600"
+    },
+    "contact": {
+        "phone": "001-787-752-0800x3976",
+        "servicePhone": "800532461"
+    },
+    "birthday": "1925-04-10",
+    "ip": "37.219.42.3",
+    "foo": "bar",
+    "profile": {
+        "about": "Recognize company Republican level recent central. Head probably though sea difficult top.",
+        "bio": "People president involve against. Far ten final forward character Congress hair life. Role box black anything here central behind just."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}
