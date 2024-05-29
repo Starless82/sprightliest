@@ -1,0 +1,25 @@
+{
+    "name": "Kelli Dawson",
+    "age": 13,
+    "address": {
+        "street": "Kyle Island",
+        "city": "West Stevenport",
+        "state": "North Carolina",
+        "zip": "65384"
+    },
+    "contact": {
+        "phone": "704.768.9681",
+        "servicePhone": "800080988"
+    },
+    "birthday": "2012-20-01",
+    "ip": "79.134.62.75",
+    "foo": "bar",
+    "profile": {
+        "about": "White bank like report find find wonder.\nBudget cover research. Air choose beat door guy sea.",
+        "bio": "Majority news alone her whose thought. My dark term phone. Particularly fire phone.\nWrong generation rock purpose area bit avoid industry. Person despite for contain very candidate power."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}
