@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Caldwell",
+    "age": 48,
+    "address": {
+        "street": "Kelley Lock",
+        "city": "Mikefort",
+        "state": "Illinois",
+        "zip": "66821"
+    },
+    "contact": {
+        "phone": "(540)407-8024",
+        "servicePhone": "800447166"
+    },
+    "birthday": "1977-30-06",
+    "ip": "206.161.31.153",
+    "foo": "bar",
+    "profile": {
+        "about": "Oil close discuss citizen garden. Poor reduce foot Mr. Debate young skin any off reduce floor.",
+        "bio": "Next certainly side accept. Explain whose staff level.\nCertainly push piece year company seem. Tough turn leader about later born."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
