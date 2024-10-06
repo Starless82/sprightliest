@@ -1,0 +1,25 @@
+{
+    "name": "Mary Simmons",
+    "age": 50,
+    "address": {
+        "street": "Jason Cliffs",
+        "city": "South Brianfurt",
+        "state": "Massachusetts",
+        "zip": "01465"
+    },
+    "contact": {
+        "phone": "314-717-3605x370",
+        "servicePhone": "800119832"
+    },
+    "birthday": "1975-27-04",
+    "ip": "122.160.119.237",
+    "foo": "bar",
+    "profile": {
+        "about": "Outside democratic inside develop computer some. Hear more thus none edge small agree.\nNot break better meeting white determine cut. Show wide hold. Detail international cost age item so produce.",
+        "bio": "Political anyone director could outside bag. Among happen key central executive. Everyone modern behavior eye might easy. Former occur eat listen what general.\nClearly learn involve join identify."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}
