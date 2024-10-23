@@ -1,0 +1,25 @@
+{
+    "name": "Andrea Hunter",
+    "age": 115,
+    "address": {
+        "street": "Welch Drives",
+        "city": "New Ronaldside",
+        "state": "Mississippi",
+        "zip": "22398"
+    },
+    "contact": {
+        "phone": "439.933.4400x94013",
+        "servicePhone": "800632879"
+    },
+    "birthday": "1910-16-12",
+    "ip": "220.191.166.114",
+    "foo": "bar",
+    "profile": {
+        "about": "Win during agency nice hot beat environmental. Behavior loss language town born individual action seem.",
+        "bio": "Law behavior south both environmental a so. Several focus he even. Hit piece thousand dark."
+    },
+    "currency": [
+        "SRD",
+        "Surinamese dollar"
+    ]
+}
