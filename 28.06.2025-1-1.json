@@ -1,0 +1,25 @@
+{
+    "name": "Jonathan Wade",
+    "age": 45,
+    "address": {
+        "street": "Heidi Cove",
+        "city": "New Tiffany",
+        "state": "Kansas",
+        "zip": "36026"
+    },
+    "contact": {
+        "phone": "255-831-9600x763",
+        "servicePhone": "800444074"
+    },
+    "birthday": "1980-23-10",
+    "ip": "2.203.167.13",
+    "foo": "bar",
+    "profile": {
+        "about": "None mean commercial own. Television clearly mother mind notice employee matter. Stuff himself very letter under. Seat history decision method instead teacher glass.",
+        "bio": "Peace during of indeed try short create allow. Land above three seat.\nState door two watch. Address president full person state must study."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}

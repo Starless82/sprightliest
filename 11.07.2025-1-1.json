@@ -1,0 +1,25 @@
+{
+    "name": "James Washington",
+    "age": 48,
+    "address": {
+        "street": "Pierce Trail",
+        "city": "East Jenniferfort",
+        "state": "Connecticut",
+        "zip": "21749"
+    },
+    "contact": {
+        "phone": "(430)476-2220x90013",
+        "servicePhone": "800158265"
+    },
+    "birthday": "1977-05-11",
+    "ip": "132.143.131.228",
+    "foo": "bar",
+    "profile": {
+        "about": "Cover face such two hit clear second. Hotel result industry. Coach risk office get citizen support.",
+        "bio": "Weight lay husband PM fund with special finish. Give walk style lot street authority when sure. World future adult."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}
