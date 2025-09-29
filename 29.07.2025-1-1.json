@@ -1,0 +1,25 @@
+{
+    "name": "Steven Rivera",
+    "age": 72,
+    "address": {
+        "street": "Ray Loop",
+        "city": "Josephchester",
+        "state": "Kansas",
+        "zip": "09649"
+    },
+    "contact": {
+        "phone": "2415075271",
+        "servicePhone": "800790093"
+    },
+    "birthday": "1953-16-03",
+    "ip": "158.53.200.38",
+    "foo": "bar",
+    "profile": {
+        "about": "Kid nor sort end hospital. Miss pay Mrs experience like.\nReport region newspaper sit next. Heart serious brother true huge southern.",
+        "bio": "Military concern various enter key. Minute leader ahead something action scientist develop. Majority any character better."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}
