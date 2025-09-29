@@ -1,0 +1,25 @@
+{
+    "name": "George Baker",
+    "age": 43,
+    "address": {
+        "street": "Cody Well",
+        "city": "Richardton",
+        "state": "South Carolina",
+        "zip": "86163"
+    },
+    "contact": {
+        "phone": "506.430.2202x583",
+        "servicePhone": "800367804"
+    },
+    "birthday": "1982-05-10",
+    "ip": "60.1.15.217",
+    "foo": "bar",
+    "profile": {
+        "about": "Practice dream image he message chance specific. Consider somebody lawyer clearly work capital see.\nNetwork along everyone. Resource positive often position.",
+        "bio": "Risk couple need particular sure. Reality result pass wear scientist actually. Appear forget continue nothing."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
