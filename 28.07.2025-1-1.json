@@ -1,0 +1,25 @@
+{
+    "name": "Michael Mahoney",
+    "age": 1,
+    "address": {
+        "street": "Anna Keys",
+        "city": "North Michaelbury",
+        "state": "Texas",
+        "zip": "74192"
+    },
+    "contact": {
+        "phone": "904.567.4271x4315",
+        "servicePhone": "800145519"
+    },
+    "birthday": "2024-04-09",
+    "ip": "91.130.107.166",
+    "foo": "bar",
+    "profile": {
+        "about": "Score process know. Team color present may.\nBusiness safe item land. Push once wide manage difficult study if.\nThrough win always employee. To where girl thousand.",
+        "bio": "If hard establish seem lead seem. Consumer matter call other. Boy almost beat.\nFamily hold thank few become measure recognize. Blue add compare senior."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}

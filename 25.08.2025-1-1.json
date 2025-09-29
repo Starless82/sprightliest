@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Cortez",
+    "age": 11,
+    "address": {
+        "street": "Penny Road",
+        "city": "East Robert",
+        "state": "Arkansas",
+        "zip": "88126"
+    },
+    "contact": {
+        "phone": "906-819-4917",
+        "servicePhone": "800349337"
+    },
+    "birthday": "2014-10-04",
+    "ip": "198.245.74.67",
+    "foo": "bar",
+    "profile": {
+        "about": "Remain bed actually war. Budget mother send explain.\nGreen blue interesting customer although word. Us owner out hundred rate yes forward reason. Clearly social human picture against as reflect.",
+        "bio": "Almost leg popular phone particularly specific performance. Fall term leader. Within ever more here police."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}
