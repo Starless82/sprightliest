@@ -1,0 +1,25 @@
+{
+    "name": "Patrick Brown",
+    "age": 55,
+    "address": {
+        "street": "Johnson Parkway",
+        "city": "Hawkinsborough",
+        "state": "Minnesota",
+        "zip": "44617"
+    },
+    "contact": {
+        "phone": "774.753.5933",
+        "servicePhone": "800380646"
+    },
+    "birthday": "1970-04-12",
+    "ip": "7.204.132.200",
+    "foo": "bar",
+    "profile": {
+        "about": "Probably card none claim sometimes. Learn few role receive data single. Firm friend tonight.",
+        "bio": "Company fish rich live impact.\nSpecific feel hair on. Hour she month one office.\nCustomer fund doctor summer. Main policy head little choice individual ability identify."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
