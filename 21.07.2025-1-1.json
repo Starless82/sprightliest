@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Cochran",
+    "age": 65,
+    "address": {
+        "street": "Scott Mill",
+        "city": "Adamsfort",
+        "state": "North Dakota",
+        "zip": "57104"
+    },
+    "contact": {
+        "phone": "001-864-735-4054x55815",
+        "servicePhone": "800804166"
+    },
+    "birthday": "1960-10-10",
+    "ip": "216.114.20.26",
+    "foo": "bar",
+    "profile": {
+        "about": "Best training house shake management beautiful later. Spring example attorney if enter mean well.\nStaff nor lawyer. Film civil catch everybody people stock. Official official in southern.",
+        "bio": "Put small debate remember will. While perform guess population ten.\nInstitution edge policy each trial. Clear partner fine dog building support section."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
