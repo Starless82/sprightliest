@@ -1,0 +1,25 @@
+{
+    "name": "Cynthia Clark",
+    "age": 101,
+    "address": {
+        "street": "Swanson Neck",
+        "city": "Port Jonathanburgh",
+        "state": "Louisiana",
+        "zip": "73376"
+    },
+    "contact": {
+        "phone": "524.723.0342",
+        "servicePhone": "800837118"
+    },
+    "birthday": "1924-08-02",
+    "ip": "92.8.204.21",
+    "foo": "bar",
+    "profile": {
+        "about": "Note card eight customer. Value development check box without.\nRoad discover weight front social deal. Real type figure discover green ability magazine. Too be sound piece season enough often.",
+        "bio": "Employee give decade minute support. State one knowledge prepare city sure determine. Close accept party near check big off.\nOccur miss born parent value face. Another sea attorney respond article."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}
