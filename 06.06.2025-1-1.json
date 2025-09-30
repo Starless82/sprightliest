@@ -1,0 +1,25 @@
+{
+    "name": "Robert Olson",
+    "age": 0,
+    "address": {
+        "street": "Thomas Squares",
+        "city": "North Alexandriaborough",
+        "state": "Kentucky",
+        "zip": "10347"
+    },
+    "contact": {
+        "phone": "545-200-1906x242",
+        "servicePhone": "800913651"
+    },
+    "birthday": "2025-14-07",
+    "ip": "76.7.165.252",
+    "foo": "bar",
+    "profile": {
+        "about": "Note billion idea collection.\nAround local collection local structure. Treat way coach institution.\nPattern year chance window rather room Republican.",
+        "bio": "Issue article subject gas relationship end. Heart stuff actually management we.\nFirst tonight civil. Move water drop son. Goal which onto participant range."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}

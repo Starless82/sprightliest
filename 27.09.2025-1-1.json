@@ -1,0 +1,25 @@
+{
+    "name": "John Owens",
+    "age": 75,
+    "address": {
+        "street": "Ray Manor",
+        "city": "South Jennifermouth",
+        "state": "Rhode Island",
+        "zip": "80266"
+    },
+    "contact": {
+        "phone": "+1-949-618-3859",
+        "servicePhone": "800939481"
+    },
+    "birthday": "1950-28-08",
+    "ip": "175.187.95.18",
+    "foo": "bar",
+    "profile": {
+        "about": "Final week cell effect history perhaps. Unit five network something relationship. Line west technology possible challenge kid. Impact good surface many garden but.",
+        "bio": "History guess address beautiful do. This above heart sing. Himself current computer candidate.\nThought modern after court resource. Blue record institution wrong arm."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}
