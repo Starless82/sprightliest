@@ -1,0 +1,25 @@
+{
+    "name": "Amy Larsen",
+    "age": 28,
+    "address": {
+        "street": "Sharon Path",
+        "city": "West Anna",
+        "state": "Washington",
+        "zip": "44390"
+    },
+    "contact": {
+        "phone": "588.365.5015x13415",
+        "servicePhone": "800737645"
+    },
+    "birthday": "1997-14-11",
+    "ip": "172.219.254.1",
+    "foo": "bar",
+    "profile": {
+        "about": "Race might play pull rich especially own. Possible treat really lose tree possible green. Huge party game study here arm game.",
+        "bio": "Exactly authority side music loss. Lose model foreign when prepare live window. Receive should while year.\nSide season baby. Fall usually those situation successful seem between."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
