@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Fields",
+    "age": 23,
+    "address": {
+        "street": "Little Crossroad",
+        "city": "South Sarahside",
+        "state": "Michigan",
+        "zip": "64614"
+    },
+    "contact": {
+        "phone": "7778106278",
+        "servicePhone": "800611055"
+    },
+    "birthday": "2002-04-05",
+    "ip": "77.148.51.246",
+    "foo": "bar",
+    "profile": {
+        "about": "Detail bed system beautiful yourself rule friend available. Ability list that participant area.\nDirection reality bad meet drop approach. Allow song pretty hard. More recently different learn.",
+        "bio": "Behavior newspaper skill interest power. Activity fly defense civil Republican upon fight."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}
