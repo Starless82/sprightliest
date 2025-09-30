@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Watkins",
+    "age": 92,
+    "address": {
+        "street": "Jennifer Mountains",
+        "city": "Melanieville",
+        "state": "Utah",
+        "zip": "23122"
+    },
+    "contact": {
+        "phone": "001-225-897-1278x681",
+        "servicePhone": "800226707"
+    },
+    "birthday": "1933-27-06",
+    "ip": "8.110.8.2",
+    "foo": "bar",
+    "profile": {
+        "about": "Spring perhaps south bring might. Determine pay treat blue own start forward.",
+        "bio": "Detail product unit stage admit old. Region power glass design.\nProtect long area investment main nor chance. Himself see travel mouth."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}

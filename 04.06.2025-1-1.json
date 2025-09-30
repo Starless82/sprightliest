@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Smith",
+    "age": 14,
+    "address": {
+        "street": "Hawkins Fort",
+        "city": "Franklinton",
+        "state": "West Virginia",
+        "zip": "68311"
+    },
+    "contact": {
+        "phone": "796-835-4027x75970",
+        "servicePhone": "800247876"
+    },
+    "birthday": "2011-19-05",
+    "ip": "81.96.146.16",
+    "foo": "bar",
+    "profile": {
+        "about": "Vote fight actually. Rule behind author success. Drug her natural realize.",
+        "bio": "One admit subject blood discuss. Road very also money tree stuff religious.\nThough theory there believe. Dog good court civil. Of also policy send raise at."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}

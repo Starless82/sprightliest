@@ -1,0 +1,25 @@
+{
+    "name": "Allison Villegas",
+    "age": 104,
+    "address": {
+        "street": "Chandler Valley",
+        "city": "West Cynthiaside",
+        "state": "Oregon",
+        "zip": "81275"
+    },
+    "contact": {
+        "phone": "001-741-470-8588x29226",
+        "servicePhone": "800325775"
+    },
+    "birthday": "1921-25-03",
+    "ip": "152.163.10.165",
+    "foo": "bar",
+    "profile": {
+        "about": "Condition senior best thing little improve. Cup fast exist less across grow.\nGarden into every myself single now. Question everybody increase book nice tonight much. None more health goal deal open.",
+        "bio": "Nor culture wide easy according quality front. Owner lot fear market capital. Purpose someone week cause adult expect young sell."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}

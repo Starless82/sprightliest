@@ -1,0 +1,25 @@
+{
+    "name": "Nathan Fuentes DDS",
+    "age": 108,
+    "address": {
+        "street": "Elizabeth Shoals",
+        "city": "New Jeffreystad",
+        "state": "Alabama",
+        "zip": "67169"
+    },
+    "contact": {
+        "phone": "(839)273-7970",
+        "servicePhone": "800155085"
+    },
+    "birthday": "1917-30-08",
+    "ip": "144.17.96.60",
+    "foo": "bar",
+    "profile": {
+        "about": "Follow economic reveal. Hospital huge none garden old.\nBut way floor window almost would.\nYour unit sing instead.",
+        "bio": "Organization year worry coach development tend general. Pretty blue she year artist consider common."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}

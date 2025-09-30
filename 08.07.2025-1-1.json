@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Cummings",
+    "age": 86,
+    "address": {
+        "street": "Christopher Pike",
+        "city": "Mossport",
+        "state": "Washington",
+        "zip": "88616"
+    },
+    "contact": {
+        "phone": "828-789-6575x45668",
+        "servicePhone": "800408204"
+    },
+    "birthday": "1939-08-10",
+    "ip": "27.173.118.60",
+    "foo": "bar",
+    "profile": {
+        "about": "Hospital color deep anything choose pattern trade. Shoulder beat meeting behind piece that happen finally.",
+        "bio": "Benefit able computer soon city job. Local nice find. Visit camera force edge there leg. Great number blue chance strategy."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
