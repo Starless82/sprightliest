@@ -1,0 +1,25 @@
+{
+    "name": "Robert Hood",
+    "age": 68,
+    "address": {
+        "street": "Tucker Pass",
+        "city": "Lake Luke",
+        "state": "Tennessee",
+        "zip": "21526"
+    },
+    "contact": {
+        "phone": "001-634-316-8212x99672",
+        "servicePhone": "800011952"
+    },
+    "birthday": "1957-09-01",
+    "ip": "20.251.188.18",
+    "foo": "bar",
+    "profile": {
+        "about": "Culture resource training increase cause style. Place within allow room.\nLong cover would road. Born now development million budget son.\nAnimal before direction good.",
+        "bio": "His teach during western drive baby organization. Half owner safe ago anyone whose. Station generation race dog everybody thousand and certain. Quality create yes office quality short test."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}
