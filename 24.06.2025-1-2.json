@@ -1,0 +1,25 @@
+{
+    "name": "Jacqueline Rojas",
+    "age": 115,
+    "address": {
+        "street": "Donald Crossing",
+        "city": "East Vanessaland",
+        "state": "Michigan",
+        "zip": "01560"
+    },
+    "contact": {
+        "phone": "751-258-3720",
+        "servicePhone": "800501835"
+    },
+    "birthday": "1910-23-10",
+    "ip": "167.106.46.43",
+    "foo": "bar",
+    "profile": {
+        "about": "Church his bar really seek remember back. Black themselves apply ready leave available know. College let career however.",
+        "bio": "Campaign crime girl movement lose. Something interview seem hair structure call."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}

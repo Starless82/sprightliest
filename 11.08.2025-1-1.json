@@ -1,0 +1,25 @@
+{
+    "name": "Gregory Garcia",
+    "age": 3,
+    "address": {
+        "street": "Harrington Islands",
+        "city": "Rodriguezfurt",
+        "state": "Indiana",
+        "zip": "30797"
+    },
+    "contact": {
+        "phone": "561-259-1861x181",
+        "servicePhone": "800728161"
+    },
+    "birthday": "2022-03-10",
+    "ip": "140.39.94.218",
+    "foo": "bar",
+    "profile": {
+        "about": "She some take dark country. Establish road road something campaign feel side. Best watch source low collection where.",
+        "bio": "Visit mean other nation order.\nInteresting relationship into federal training deep. Evening color culture."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
