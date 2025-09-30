@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Novak",
+    "age": 63,
+    "address": {
+        "street": "Wells Corner",
+        "city": "East Sarah",
+        "state": "Hawaii",
+        "zip": "84073"
+    },
+    "contact": {
+        "phone": "001-316-945-1965x1664",
+        "servicePhone": "800049995"
+    },
+    "birthday": "1962-25-02",
+    "ip": "138.221.155.180",
+    "foo": "bar",
+    "profile": {
+        "about": "Set those remain left customer.\nSense everyone community discuss let police necessary. Beyond morning attention.\nField Mrs recently rise edge assume meet. Meeting life number option kid feeling.",
+        "bio": "About peace send need reflect identify work. Stand kind report study power before plant century.\nInvestment agency plan name.\nNot light rise tough talk pattern. Wonder thing easy likely."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}

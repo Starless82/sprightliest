@@ -1,0 +1,25 @@
+{
+    "name": "Michael Campbell",
+    "age": 13,
+    "address": {
+        "street": "Harris Shores",
+        "city": "Griffithshire",
+        "state": "Arkansas",
+        "zip": "27361"
+    },
+    "contact": {
+        "phone": "(987)213-5286",
+        "servicePhone": "800852953"
+    },
+    "birthday": "2012-21-09",
+    "ip": "15.206.153.189",
+    "foo": "bar",
+    "profile": {
+        "about": "Compare city speak various present care. After with along career year art. Goal staff gas force share require.",
+        "bio": "None many foreign prove picture other happy room. Upon somebody region debate. Lose require thing blue few affect whom."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}

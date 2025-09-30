@@ -1,0 +1,25 @@
+{
+    "name": "Danielle Goodman",
+    "age": 21,
+    "address": {
+        "street": "Chase Isle",
+        "city": "Leonville",
+        "state": "Massachusetts",
+        "zip": "74170"
+    },
+    "contact": {
+        "phone": "932-529-5494x823",
+        "servicePhone": "800659159"
+    },
+    "birthday": "2004-23-06",
+    "ip": "11.120.107.120",
+    "foo": "bar",
+    "profile": {
+        "about": "Stand before table create.\nOfficial news red another. Feel study environmental war.",
+        "bio": "Want force end at reduce small focus. Relate onto head believe financial. Month somebody look voice.\nGoal fast total able ask.\nNecessary reach operation write huge heart. Board among culture."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}

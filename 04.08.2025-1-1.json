@@ -1,0 +1,25 @@
+{
+    "name": "Travis Montes",
+    "age": 24,
+    "address": {
+        "street": "Timothy Estates",
+        "city": "Candiceside",
+        "state": "Georgia",
+        "zip": "50362"
+    },
+    "contact": {
+        "phone": "444.845.6271x09436",
+        "servicePhone": "800868722"
+    },
+    "birthday": "2001-22-01",
+    "ip": "162.140.254.101",
+    "foo": "bar",
+    "profile": {
+        "about": "Really many hear there little great. Wall seem first full program citizen. Total call operation stock general even amount. North everybody huge less program beyond surface.",
+        "bio": "End begin south hold. Different recent team arm organization everybody radio. Music partner north should more.\nNation child bad wonder. Decide near surface world adult movement may."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}
